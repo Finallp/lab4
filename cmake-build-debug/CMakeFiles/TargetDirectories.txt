@@ -1,0 +1,12 @@
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/install/local.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/package.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/test.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/tests.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/demo.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/lab4.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/package_source.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/vm/CLionProjects/Lab4/cmake-build-debug/CMakeFiles/install.dir
